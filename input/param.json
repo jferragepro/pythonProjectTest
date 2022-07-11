@@ -1,0 +1,83 @@
+{
+  "COEF": {
+    "ADJUDANT": {
+      "CAT": "S_OFF",
+      "EQUIPIER": 1.5,
+      "CHEF_AGRES": 3,
+      "CONDUCTEUR": 1.5
+    },
+    "ADJUDANT CHEF": {
+      "CAT": "S_OFF",
+      "EQUIPIER": 1.5,
+      "CHEF_AGRES": 3,
+      "CONDUCTEUR": 1.5
+    },
+    "CAPITAINE": {
+      "CAT": "OFF",
+      "EQUIPIER": 0,
+      "CHEF_AGRES": 1.5,
+      "CONDUCTEUR": 0
+    },
+    "CAPORAL": {
+      "CAT": "HDR",
+      "EQUIPIER": 3,
+      "CHEF_AGRES": 0,
+      "CONDUCTEUR": 3
+    },
+    "CAPORAL CHEF": {
+      "CAT": "HDR",
+      "EQUIPIER": 3,
+      "CHEF_AGRES": 0,
+      "CONDUCTEUR": 3
+    },
+    "COMMANDANT": {
+      "CAT": "OFF",
+      "EQUIPIER": 0,
+      "CHEF_AGRES": 1.5,
+      "CONDUCTEUR": 0
+    },
+    "LIEUTENANT": {
+      "CAT": "OFF",
+      "EQUIPIER": 0,
+      "CHEF_AGRES": 1.5,
+      "CONDUCTEUR": 0
+    },
+    "LIEUTENANT 1 CLASSE": {
+      "CAT": "OFF",
+      "EQUIPIER": 0,
+      "CHEF_AGRES": 1.5,
+      "CONDUCTEUR": 0
+    },
+    "LIEUTENANT 2 CLASSE": {
+      "CAT": "OFF",
+      "EQUIPIER": 0,
+      "CHEF_AGRES": 1.5,
+      "CONDUCTEUR": 0
+    },
+    "LIEUTENANT COLONEL": {
+      "CAT": "OFF",
+      "EQUIPIER": 0,
+      "CHEF_AGRES": 1.5,
+      "CONDUCTEUR": 0
+    },
+    "SAPEUR": {
+      "CAT": "HDR",
+      "EQUIPIER": 3,
+      "CHEF_AGRES": 0,
+      "CONDUCTEUR": 3
+    },
+    "SERGENT": {
+      "CAT": "S_OFF",
+      "EQUIPIER": 1.5,
+      "CHEF_AGRES": 3,
+      "CONDUCTEUR": 2
+    },
+    "SERGENT CHEF": {
+      "CAT": "S_OFF",
+      "EQUIPIER": 1.5,
+      "CHEF_AGRES": 3,
+      "CONDUCTEUR": 2
+    }
+  },
+  "DEBUT": "01/07/2022"
+}
